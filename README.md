@@ -1,4 +1,5 @@
 # Sample Telegram Bot
 
 ## Result
-![result](assets/Screen Shot 2021-08-28 at 17.26.37.png)
+
+![result](https://github.com/ferez96/telegram-stupid-bot/blob/master/assets/Screen%20Shot%202021-08-28%20at%2017.26.37.png)
